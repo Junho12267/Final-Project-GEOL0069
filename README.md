@@ -35,7 +35,23 @@ C = Geophysical Corrections, which include: Ionospheric correction, dry troposph
 
 7. Altimetry data has been fitered out to latitude near the southern ocean and any SSHA above 1m has been filtered out as this is erroneous.
 8. Select a buffer zone for a region to interpret SSHA and create a square grid to create expert location.
-9. Use GPSAT to interpolate SSHA. 
+9. Use GPSAT to interpolate SSHA.
+
+References 
+
+EdenSeven (2025) Britain’s Electricity Generation – Annual Review. Available at: https://www.edenseven.co.uk/national-grid-eso-analysis-annual-review-24 (Accessed: 29 May 2025).EdenSeven+5EdenSeven+5EdenSeven+5 
+
+European Space Agency (ESA), 2024. Satellite constellation. Available at: https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Satellite_constellation?utm_source=chatgpt.com [Accessed 29 May 2025]. 
+
+Fu, L.L. and Cazenave, A. eds., 2000. Satellite altimetry and earth sciences: a handbook of techniques and applications (Vol. 69). Elsevier. Holland, D.M., Nicholls, K.W. and Basinski, A., 2020. The southern ocean and its interaction with the Antarctic ice sheet. Science, 367(6484), pp.1326-1330. 
+
+Pegliasco, C., Delepoulle, A., Mason, E., Morrow, R., Faugère, Y. and Dibarboure, G., 2022. META3. 1exp: A new global mesoscale eddy trajectory atlas derived from altimetry. Earth System Science Data, 14(3), pp.1087-1107. 
+
+Sallée, J.B., 2018. Southern ocean warming. Oceanography, 31(2), pp.52-62. 
+
+Whitehouse, P.L., 2018. Glacial isostatic adjustment modelling: historical perspectives, recent advances, and future directions. Earth surface dynamics, 6(2), pp.401-429. 
+
+ 
 
 
 
