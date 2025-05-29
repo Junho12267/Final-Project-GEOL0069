@@ -29,6 +29,10 @@ R = Ku band retracted range to water ( The radar measured distance and corrected
 
 C = Geophysical Corrections, which include: Ionospheric correction, dry tropospheric correction, wet tropospheric corrections, sea state bias correction, tidal corrections, inverted barometer correction high-frequency sea surface fluctuation correction
 
-7. 
+7. Altimetry data has been fitered out to latitude near the southern ocean and any SSHA above 1m has been filtered out as this is erroneous.
+8. Select a buffer zone for a region to interpret SSHA and create a square grid to create expert location.
+9. Use GPSAT to interpolate SSHA. 
+
+
 
 
