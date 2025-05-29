@@ -12,5 +12,5 @@ Part 1
 5. Altimetry data is downloaded to use in Part 2.
 Part 2
 6. Sea Surface Height Anomaly (SSHA)  is determined from substracting Sea Surface Height (SSH) with long term mean sea surface.
-**SSHA= SSH-MSS*
+**SSHA= SSH-MSS**
 8. 
