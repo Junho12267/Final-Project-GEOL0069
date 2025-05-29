@@ -16,10 +16,15 @@ The purpose of this project is to interpolate sea level anomaly in the Southern 
 6. Sea Surface Height Anomaly (SSHA)  is determined from substracting instantaneous Sea Surface Height (SSH) with long term mean sea surface.
    
 **SSHA= SSH-MSS**
+
 Sea surface Height is calculated using following equation
-**SSH = H - R -C **
+
+**SSH = H - R-C**
+
 Where
-H = Satelite altitude ( Around 814.5km Source: (European Space Agency)
-R = Ku band retracted 
+H = Satelite altitude ( Around 814.5km  ( Source:European Space Agency))
+R = Ku band retracted range to water ( The radar measured distance and corrected distance to the water surface based on Ku band signal. Sentinel 3 has Ku band around 13.575 GHz (Source: Fu, L.L. and Cazenave, A. eds., 2000. and European Space Agency )
+C = Geophysical Corrections, which include: Ionospheric correction, dry tropospheric correction, wet tropospheric corrections, sea state bias correction, tidal corrections, inverted barometer correction high-frequency sea surface fluctuation correction
+
 
 7. 
