@@ -45,6 +45,8 @@ European Space Agency (ESA), 2024. Satellite constellation. Available at: https:
 
 Fu, L.L. and Cazenave, A. eds., 2000. Satellite altimetry and earth sciences: a handbook of techniques and applications (Vol. 69). Elsevier. Holland, D.M., Nicholls, K.W. and Basinski, A., 2020. The southern ocean and its interaction with the Antarctic ice sheet. Science, 367(6484), pp.1326-1330. 
 
+GEOL0069, Artificial Intelligence for Earth Observation, Week 8, Eddies_from_altimetry_part_1 and 2
+
 Pegliasco, C., Delepoulle, A., Mason, E., Morrow, R., Faugère, Y. and Dibarboure, G., 2022. META3. 1exp: A new global mesoscale eddy trajectory atlas derived from altimetry. Earth System Science Data, 14(3), pp.1087-1107. 
 
 Sallée, J.B., 2018. Southern ocean warming. Oceanography, 31(2), pp.52-62. 
