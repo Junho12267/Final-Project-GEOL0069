@@ -9,5 +9,8 @@ Part 1
 2. The eddy from Western Antartica is selected as it has relatively little ice sheet
 3. 500Km buffer zone is selected from the eddy to filter out along track data that doesn't pass through near the eddy. 
 4. Altimetry data from Sentinel 3 is acquired from the Copernicus data space system and it is plotted to make sure that it passes through the buffer zone
-5. Altimetry data is downloaded 
-6. 
+5. Altimetry data is downloaded to use in Part 2.
+Part 2
+6. Sea Surface Height Anomaly (SSHA)  is determined from substracting Sea Surface Height (SSH) with long term mean sea surface.
+**SSHA= SSH-MSS*
+8. 
