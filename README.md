@@ -13,8 +13,13 @@ The purpose of this project is to interpolate sea level anomaly in the Southern 
    
 **Part 2**
 
-6. Sea Surface Height Anomaly (SSHA)  is determined from substracting Sea Surface Height (SSH) with long term mean sea surface.
+6. Sea Surface Height Anomaly (SSHA)  is determined from substracting instantaneous Sea Surface Height (SSH) with long term mean sea surface.
    
 **SSHA= SSH-MSS**
+Sea surface Height is calculated using following equation
+**SSH = H - R -C **
+Where
+H = Satelite altitude ( Around 814.5km Source: (European Space Agency)
+R = Ku band retracted 
 
 7. 
