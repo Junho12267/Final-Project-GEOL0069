@@ -27,7 +27,7 @@ Sea surface Height is calculated using following equation
 
 Where
 
-H = Satelite altitude ( Around 814.5km  ( Source:European Space Agency))
+H = Satelite altitude ( Around 814.5km  ( Source:European Space Agency, 2024))
 
 R = Ku band retracted range to water ( The radar measured distance and corrected distance to the water surface based on Ku band signal. Sentinel 3 has Ku band around 20 GHz (Source: Fu, L.L. and Cazenave, A. eds., 2000. and European Space Agency )
 
