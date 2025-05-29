@@ -11,6 +11,6 @@ Part 1
 4. Altimetry data from Sentinel 3 is acquired from the Copernicus data space system and it is plotted to make sure that it passes through the buffer zone
 5. Altimetry data is downloaded to use in Part 2.
 Part 2
-6. Sea Surface Height Anomaly (SSHA)  is determined from substracting Sea Surface Height (SSH) with long term mean sea surface./
-**SSHA= SSH-MSS**
+6. Sea Surface Height Anomaly (SSHA)  is determined from substracting Sea Surface Height (SSH) with long term mean sea surface.
+                                  **SSHA= SSH-MSS**
 7. 
