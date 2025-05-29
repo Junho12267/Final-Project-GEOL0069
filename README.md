@@ -5,7 +5,7 @@ The purpose of this project is to interpolate sea level anomaly in the Southern 
 
 ### Methodology
 **Part 1**
-1. Eddy data around the world ocean is acquired using Mesoscale Trajectory Eddy Atlas
+1. Eddy data around the world ocean is acquired using **Mesoscale Trajectory Eddy Atlas** ( Has Eddy data around the world from 1993 to 2022)
 2. The eddy from Western Antartica is selected as it has relatively little ice sheet
 3. 500Km buffer zone is selected from the eddy to filter out along track data that doesn't pass through near the eddy. 
 4. Altimetry data from Sentinel 3 is acquired from the Copernicus data space system and it is plotted to make sure that it passes through the buffer zone
@@ -25,9 +25,10 @@ Where
 
 H = Satelite altitude ( Around 814.5km  ( Source:European Space Agency))
 
-R = Ku band retracted range to water ( The radar measured distance and corrected distance to the water surface based on Ku band signal. Sentinel 3 has Ku band around 13.575 GHz (Source: Fu, L.L. and Cazenave, A. eds., 2000. and European Space Agency )
+R = Ku band retracted range to water ( The radar measured distance and corrected distance to the water surface based on Ku band signal. Sentinel 3 has Ku band around 20 GHz (Source: Fu, L.L. and Cazenave, A. eds., 2000. and European Space Agency )
 
 C = Geophysical Corrections, which include: Ionospheric correction, dry tropospheric correction, wet tropospheric corrections, sea state bias correction, tidal corrections, inverted barometer correction high-frequency sea surface fluctuation correction
 
-
 7. 
+
+
