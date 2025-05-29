@@ -19,7 +19,7 @@ The purpose of this project is to interpolate sea level anomaly in the Southern 
 
 Sea surface Height is calculated using following equation
 
-**SSH = H - R-C**
+**SSH = H - R - C**
 
 Where
 H = Satelite altitude ( Around 814.5km  ( Source:European Space Agency))
