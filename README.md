@@ -12,7 +12,8 @@ The purpose of this project is to interpolate sea level anomaly in the Southern 
 5. Altimetry data is downloaded to use in Part 2.
    
 **Part 2**
-7. Sea Surface Height Anomaly (SSHA)  is determined from substracting Sea Surface Height (SSH) with long term mean sea surface.
+
+6. Sea Surface Height Anomaly (SSHA)  is determined from substracting Sea Surface Height (SSH) with long term mean sea surface.
    
 **SSHA= SSH-MSS**
 
