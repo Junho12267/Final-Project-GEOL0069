@@ -3,7 +3,7 @@
 ### Purpose of the project
 The purpose of this project is to interpolate Sea Surface Height Anomaly ( SSHA )  in the Southern Ocean using the eddies observed in Sentinel 3 altimetry( Pegliasco et al.,2022). The along-track data of Sentinel-3 can help to track how eddies in the southern ocean move with time. Sentinel-3 is very useful as it works as both active and passive satellite and does a good job in tracking ocean features like eddies as shown in the infographic below. 
 
-https://github.com/Junho12267/Final-Project-GEOL0069/blob/main/How%20does%20sentinel%203%20work(1080%20x%201920%20px)%20(1).png
+![Alt text](https://github.com/Junho12267/Final-Project-GEOL0069/blob/main/How%20does%20sentinel%203%20work(1080%20x%201920%20px)%20(1).png)
 
 
 However, since Sentinel-3 has narrow tracks and its revisit time is only around once a day (Even with Sentinel-3A and 3B combined). Hence, interpolating eddies using GPSAT helps to fill in the missing gaps in the Sentinel-3 satellite track and create a whole picture of SSHA in the Southern Ocean. 
