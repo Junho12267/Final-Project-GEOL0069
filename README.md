@@ -22,7 +22,7 @@ Based on Sallee J.B.,2018, the Southern Ocean has been warming at 0.1 to 0.2 deg
    
 **Part 2**
 
-6. Sea Surface Height Anomaly (SSHA)  is determined by subtracting the instantaneous Sea Surface Height (SSH) from long-term mean sea surface.
+6. Sea Surface Height Anomaly (SSHA)  is determined by subtracting the instantaneous Sea Surface Height (SSH) from the long-term mean sea surface (MSS).
    
 **SSHA= SSH-MSS**
 
