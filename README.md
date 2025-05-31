@@ -38,11 +38,12 @@ R = Ku band retracted range to water ( The radar measured distance and corrected
 
 C = Geophysical Corrections, which include: Ionospheric correction, dry tropospheric correction, wet tropospheric corrections, sea state bias correction, tidal corrections, inverted barometer correction, high-frequency sea surface fluctuation correction
 
-7. Altimetry data has been filtered out to a latitude near the southern ocean, and any SSHA above 1m has been filtered out as this is erroneous.
+7. Altimetry data has been filtered to a latitude near the Southern Ocean, and any SSHA above 1m has been filtered out, as this is considered erroneous.
 8. Select a buffer zone for a region to interpret SSHA and create a square grid to create an expert location.
 9. Use GPSAT to interpolate SSHA.
 
-
+## Link to notebook
+![Alt text](https://colab.research.google.com/drive/1vlX_AHtxUGKYow2XjmVzCoL5NvGAkqnV#scrollTo=yXp-nUCcKPlr)
 ### References 
 
 EdenSeven (2025) Britain’s Electricity Generation – Annual Review. Available at: https://www.edenseven.co.uk/national-grid-eso-analysis-annual-review-24 (Accessed: 29 May 2025).EdenSeven+5EdenSeven+5EdenSeven+5 
