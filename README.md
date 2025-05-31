@@ -43,7 +43,7 @@ C = Geophysical Corrections, which include: Ionospheric correction, dry troposph
 9. Use GPSAT to interpolate SSHA.
 
 ### Link to video 
-![Link to video]("C:\Users\junho\Downloads\GMT20250531-123251_Recording.cutfile.20250531145731765_2256x1432.mp4")
+![Link to video](https://ucl.zoom.us/rec/play/jcHJPoD_v-k3Nd2KWGRtqr7GTiXLLyBrPRXQwrq7iAfxd6XBezgx8fdsYaYBYbq3lLNNN74rdIWymM8O.0Tobq5YBCZqAUZf4?autoplay=true&startTime=1748694771000)
 
 ### References 
 
