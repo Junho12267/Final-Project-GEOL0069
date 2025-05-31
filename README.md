@@ -50,7 +50,7 @@ C = Geophysical Corrections, which include: Ionospheric correction, dry troposph
 
 **Note: In 5:46 of the video, what I meant is SSHA is 0.1 to 0.2m higher than normal in general ( Not 0.2 to 0.4m).**
 
-##References 
+## References 
 
 EdenSeven (2025) Britain’s Electricity Generation – Annual Review. Available at: https://www.edenseven.co.uk/national-grid-eso-analysis-annual-review-24 (Accessed: 29 May 2025).EdenSeven+5EdenSeven+5EdenSeven+5 
 
