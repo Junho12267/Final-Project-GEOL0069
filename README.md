@@ -46,7 +46,8 @@ C = Geophysical Corrections, which include: Ionospheric correction, dry troposph
 [Final Project eddies](https://colab.research.google.com/drive/1vlX_AHtxUGKYow2XjmVzCoL5NvGAkqnV#scrollTo=yXp-nUCcKPlr)
 
 ## **Link to video**
-[Video]("C:\Users\junho\Downloads\GMT20250531-123251_Recording.cutfile.20250531145731765_2256x1432.mp4")
+[Video](https://ucl.zoom.us/rec/share/bAjxy5ocnSv_Quj1SIp5utSnOZXO68RJtTH2q5WMvHdpb4JEyQKXo25pq7hTrgc_.D_a_DDY0QmySYGx7?startTime=1748694771000
+Passcode: 7Gi$V*^N)
 ### References 
 
 EdenSeven (2025) Britain’s Electricity Generation – Annual Review. Available at: https://www.edenseven.co.uk/national-grid-eso-analysis-annual-review-24 (Accessed: 29 May 2025).EdenSeven+5EdenSeven+5EdenSeven+5 
