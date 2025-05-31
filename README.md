@@ -42,6 +42,9 @@ C = Geophysical Corrections, which include: Ionospheric correction, dry troposph
 8. Select a buffer zone for a region to interpret SSHA and create a square grid to create an expert location.
 9. Use GPSAT to interpolate SSHA.
 
+## Link to video 
+![Alt text]("C:\Users\junho\Downloads\GMT20250531-123251_Recording.cutfile.20250531145731765_2256x1432.mp4")
+
 ### References 
 
 EdenSeven (2025) Britain’s Electricity Generation – Annual Review. Available at: https://www.edenseven.co.uk/national-grid-eso-analysis-annual-review-24 (Accessed: 29 May 2025).EdenSeven+5EdenSeven+5EdenSeven+5 
