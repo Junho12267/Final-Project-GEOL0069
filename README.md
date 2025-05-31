@@ -42,8 +42,8 @@ C = Geophysical Corrections, which include: Ionospheric correction, dry troposph
 8. Select a buffer zone for a region to interpret SSHA and create a square grid to create an expert location.
 9. Use GPSAT to interpolate SSHA.
 
-## Link to video 
-![Alt text]("C:\Users\junho\Downloads\GMT20250531-123251_Recording.cutfile.20250531145731765_2256x1432.mp4")
+### Link to video 
+![Link to video]("C:\Users\junho\Downloads\GMT20250531-123251_Recording.cutfile.20250531145731765_2256x1432.mp4")
 
 ### References 
 
