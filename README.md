@@ -1,7 +1,7 @@
 # Interpolating Sea Surface Height Anomaly
 
 ### Purpose of the project
-The purpose of this project is to interpolate Sea Surface Height Anomaly ( SSHA )  in the Southern Ocean using the eddies observed in Sentinel 3 altimetry( Pegliasco et al.,2022). The along-track data of Sentinel-3 can help to track how eddies in the southern ocean move with time. Sentinel-3 is very useful as it works as both active and passive satellite and does a good job in tracking ocean features like eddies as shown in the infographic below. 
+The purpose of this project is to interpolate Sea Surface Height Anomaly ( SSHA )  in the Southern Ocean using the eddies observed in Sentinel 3 altimetry( Pegliasco et al.,2022). The along-track data of Sentinel-3 can help track how eddies in the Southern Ocean move over time. Sentinel-3 is very useful as it works as both active and passive satellite and does a good job in tracking ocean features like eddies as shown in the infographic below. 
 
 ![Alt text](https://github.com/Junho12267/Final-Project-GEOL0069/blob/main/How%20does%20sentinel%203%20work(1080%20x%201920%20px)%20(1).png)
 
@@ -43,7 +43,7 @@ C = Geophysical Corrections, which include: Ionospheric correction, dry troposph
 9. Use GPSAT to interpolate SSHA.
 
 ## Link to notebook
-![Alt text](https://colab.research.google.com/drive/1vlX_AHtxUGKYow2XjmVzCoL5NvGAkqnV#scrollTo=yXp-nUCcKPlr)
+[Final Project eddies](https://colab.research.google.com/drive/1vlX_AHtxUGKYow2XjmVzCoL5NvGAkqnV#scrollTo=yXp-nUCcKPlr)
 ### References 
 
 EdenSeven (2025) Britain’s Electricity Generation – Annual Review. Available at: https://www.edenseven.co.uk/national-grid-eso-analysis-annual-review-24 (Accessed: 29 May 2025).EdenSeven+5EdenSeven+5EdenSeven+5 
@@ -56,7 +56,7 @@ GEOL0069, Artificial Intelligence for Earth Observation, Week 8, Eddies from alt
 
 Pegliasco, C., Delepoulle, A., Mason, E., Morrow, R., Faugère, Y. and Dibarboure, G., 2022. META3. 1exp: A new global mesoscale eddy trajectory atlas derived from altimetry. Earth System Science Data, 14(3), pp.1087-1107. 
 
-Sallée, J.B., 2018. Southern ocean warming. Oceanography, 31(2), pp.52-62. 
+Sallée, J.B., 2018. Southern Ocean warming. Oceanography, 31(2), pp.52-62. 
 
 Whitehouse, P.L., 2018. Glacial isostatic adjustment modelling: historical perspectives, recent advances, and future directions. Earth surface dynamics, 6(2), pp.401-429. 
 
